@@ -1,10 +1,7 @@
 # flutter_web_firebase
 
-A new Flutter project.
+A new Flutter project which helps in picking multiimages in flutter web and upload those images to firestore.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
